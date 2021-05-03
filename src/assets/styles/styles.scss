@@ -1,0 +1,72 @@
+@import '~bootstrap/scss/bootstrap';
+@import '~@/assets/fonts/material-icons.css';
+
+/* global */
+html,
+body,
+#app {
+  height: 100%;
+}
+
+body {
+  overflow-y: scroll;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+/* animation */
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.2s ease-out !important;
+}
+
+.list-enter-active,
+.list-leave-active {
+  transition: all 0.5s ease;
+}
+
+.list-enter-from,
+.list-leave-to {
+  opacity: 0 !important;
+  transform: translateY(30px);
+}
+
+
+/* bootstrap */
+button,
+.btn {
+  &:focus:not(:active) {
+    box-shadow: none !important;
+  }
+}
+
+.btn-check+.btn-outline-secondary {
+  box-shadow: 0 0 0 0.25rem rgba(108, 117, 125, 0.5);
+}
+
+.btn-check+.btn:not(:active) {
+  box-shadow: none !important;
+}
+
+.form-group.required .form-label:after {
+  content: "*";
+  color: var(--bs-danger);
+  margin-left: 2px;
+}
+
+.modal-open {
+  padding-right: 17px;
+}

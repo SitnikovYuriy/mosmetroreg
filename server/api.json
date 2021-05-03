@@ -1,0 +1,1974 @@
+{
+  "lines": [
+    {
+      "id": 1,
+      "title": "Сокольническая линия",
+      "color": "#DA2128",
+      "shortTitle": "1"
+    },
+    {
+      "id": 2,
+      "title": "Замоскворецкая линия",
+      "color": "#48B85E",
+      "shortTitle": "2"
+    },
+    {
+      "id": 3,
+      "title": "Арбатско-Покровская линия",
+      "color": "#0078BF",
+      "shortTitle": "3"
+    },
+    {
+      "id": 4,
+      "title": "Филёвская линия",
+      "color": "#00C1F3",
+      "shortTitle": "4"
+    },
+    {
+      "id": 5,
+      "title": "Кольцевая линия",
+      "color": "#894E35",
+      "shortTitle": "5"
+    },
+    {
+      "id": 6,
+      "title": "Калужско-Рижская линия",
+      "color": "#F58220",
+      "shortTitle": "6"
+    },
+    {
+      "id": 7,
+      "title": "Таганско-Краснопресненская линия",
+      "color": "#8E479B",
+      "shortTitle": "7"
+    },
+    {
+      "id": 8,
+      "title": "Калининская линия",
+      "color": "#FFC61A",
+      "shortTitle": "8"
+    },
+    {
+      "id": 9,
+      "title": "Серпуховско-Тимирязевская линия",
+      "color": "#A1A2A3",
+      "shortTitle": "9"
+    },
+    {
+      "id": 10,
+      "title": "Люблинско-Дмитровская линия",
+      "color": "#B4D445",
+      "shortTitle": "10"
+    },
+    {
+      "id": 11,
+      "title": "Большая кольцевая линия",
+      "color": "#6AC9C8",
+      "shortTitle": "11"
+    },
+    {
+      "id": 12,
+      "title": "Бутовская линия Лёгкого метро",
+      "color": "#ACBFE3",
+      "shortTitle": "12"
+    },
+    {
+      "id": 13,
+      "title": "Московская монорельсовая транспортная система",
+      "color": "#0B74BA",
+      "shortTitle": "13"
+    },
+    {
+      "id": 14,
+      "title": "Московское центральное кольцо",
+      "color": "#FFA8AF",
+      "shortTitle": "14"
+    },
+    {
+      "id": 15,
+      "title": "Некрасовская линия",
+      "color": "#E66AC0",
+      "shortTitle": "15"
+    },
+    {
+      "id": 16,
+      "title": "Солнцевская линия",
+      "color": "#FFC61A",
+      "shortTitle": "8A"
+    },
+    {
+      "id": 17,
+      "title": "Каховская линия",
+      "color": "#6AC9C8",
+      "shortTitle": "11"
+    }
+  ],
+  "stations": [
+    {
+      "id": 1,
+      "title": "Третьяковская",
+      "line": 8,
+      "transferLines": [
+        2,
+        6
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Медведково",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 3,
+      "title": "Первомайская",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 4,
+      "title": "Калужская",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 5,
+      "title": "Каховская",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 6,
+      "title": "Бульвар адмирала Ушакова",
+      "line": 12,
+      "transferLines": []
+    },
+    {
+      "id": 7,
+      "title": "Павелецкая",
+      "line": 2,
+      "transferLines": [
+        5
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Волжская",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 9,
+      "title": "Шаболовская",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 10,
+      "title": "Плющиха",
+      "line": 16,
+      "transferLines": []
+    },
+    {
+      "id": 11,
+      "title": "Тимирязевская",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 12,
+      "title": "ВДНХ",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 13,
+      "title": "Тверская",
+      "line": 2,
+      "transferLines": [
+        7,
+        9
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Фонвизинская",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 15,
+      "title": "Воронцовская",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 16,
+      "title": "Дмитровская",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 17,
+      "title": "Новые Черёмушки",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 18,
+      "title": "Улица Милашенкова",
+      "line": 13,
+      "transferLines": []
+    },
+    {
+      "id": 19,
+      "title": "Пушкинская",
+      "line": 7,
+      "transferLines": [
+        2,
+        9
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Маяковская",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 21,
+      "title": "Нижегородская",
+      "line": 15,
+      "transferLines": []
+    },
+    {
+      "id": 22,
+      "title": "Ботанический сад",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 23,
+      "title": "Нижегородская улица",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 24,
+      "title": "Белорусская",
+      "line": 2,
+      "transferLines": [
+        5
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Варшавская",
+      "line": 17,
+      "transferLines": [
+        2
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Красногвардейская",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 27,
+      "title": "Комсомольская",
+      "line": 1,
+      "transferLines": [
+        5
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Нагатинская",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 29,
+      "title": "Алтуфьево",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 30,
+      "title": "Новопеределкино",
+      "line": 16,
+      "transferLines": []
+    },
+    {
+      "id": 31,
+      "title": "Автозаводская",
+      "line": 2,
+      "transferLines": [
+        14
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Дорогомиловская",
+      "line": 16,
+      "transferLines": []
+    },
+    {
+      "id": 33,
+      "title": "Текстильщики",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 34,
+      "title": "Кожуховская",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 35,
+      "title": "Марьино",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 36,
+      "title": "Павелецкая",
+      "line": 5,
+      "transferLines": [
+        2
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Преображенская площадь",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 38,
+      "title": "Новослободская",
+      "line": 5,
+      "transferLines": []
+    },
+    {
+      "id": 39,
+      "title": "Фили",
+      "line": 4,
+      "transferLines": []
+    },
+    {
+      "id": 40,
+      "title": "Кунцевская",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 41,
+      "title": "Домодедовская",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 42,
+      "title": "Мневники",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 43,
+      "title": "Охотный ряд",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 44,
+      "title": "Новокосино",
+      "line": 8,
+      "transferLines": []
+    },
+    {
+      "id": 45,
+      "title": "Курская",
+      "line": 5,
+      "transferLines": []
+    },
+    {
+      "id": 46,
+      "title": "Лухмановская",
+      "line": 15,
+      "transferLines": []
+    },
+    {
+      "id": 47,
+      "title": "Достоевская",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 48,
+      "title": "Улица Новаторов",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 49,
+      "title": "Международная",
+      "line": 4,
+      "transferLines": []
+    },
+    {
+      "id": 50,
+      "title": "Борисово",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 51,
+      "title": "Выставочный центр",
+      "line": 13,
+      "transferLines": []
+    },
+    {
+      "id": 52,
+      "title": "Беговая",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 53,
+      "title": "Терехово",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 54,
+      "title": "Третьяковская",
+      "line": 16,
+      "transferLines": []
+    },
+    {
+      "id": 55,
+      "title": "Савёловская",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 56,
+      "title": "Волоколамская",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 57,
+      "title": "Парк Победы",
+      "line": 16,
+      "transferLines": []
+    },
+    {
+      "id": 58,
+      "title": "Чертановская",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 59,
+      "title": "Парк Победы",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 60,
+      "title": "Филёвский парк",
+      "line": 4,
+      "transferLines": []
+    },
+    {
+      "id": 61,
+      "title": "Фрунзенская",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 62,
+      "title": "Кузнецкий мост",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 63,
+      "title": "Лубянка",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 64,
+      "title": "Улица Сергея Эйзенштейна",
+      "line": 13,
+      "transferLines": []
+    },
+    {
+      "id": 65,
+      "title": "Водный стадион",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 66,
+      "title": "Улица 1905 года",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 67,
+      "title": "Ломоносовский проспект",
+      "line": 16,
+      "transferLines": []
+    },
+    {
+      "id": 68,
+      "title": "Марксистская",
+      "line": 8,
+      "transferLines": []
+    },
+    {
+      "id": 69,
+      "title": "Боровское шоссе",
+      "line": 16,
+      "transferLines": []
+    },
+    {
+      "id": 70,
+      "title": "Партизанская",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 71,
+      "title": "Улица академика Янгеля",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 72,
+      "title": "Краснопресненская",
+      "line": 5,
+      "transferLines": []
+    },
+    {
+      "id": 73,
+      "title": "Авиамоторная",
+      "line": 15,
+      "transferLines": []
+    },
+    {
+      "id": 74,
+      "title": "Чкаловская",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 75,
+      "title": "Тульская",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 76,
+      "title": "Лермонтовский проспект",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 77,
+      "title": "Спартак",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 78,
+      "title": "Арбатская",
+      "line": 4,
+      "transferLines": []
+    },
+    {
+      "id": 79,
+      "title": "Аннино",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 80,
+      "title": "Севастопольская",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 81,
+      "title": "Профсоюзная",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 82,
+      "title": "Арбатская",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 83,
+      "title": "Улица Горчакова",
+      "line": 12,
+      "transferLines": []
+    },
+    {
+      "id": 84,
+      "title": "Мякинино",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 85,
+      "title": "Октябрьская",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 86,
+      "title": "Пионерская",
+      "line": 4,
+      "transferLines": []
+    },
+    {
+      "id": 87,
+      "title": "Площадь Ильича",
+      "line": 8,
+      "transferLines": []
+    },
+    {
+      "id": 88,
+      "title": "Рассказовка",
+      "line": 16,
+      "transferLines": []
+    },
+    {
+      "id": 89,
+      "title": "Нагатинский затон",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 90,
+      "title": "Измайловская",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 91,
+      "title": "Косино",
+      "line": 15,
+      "transferLines": []
+    },
+    {
+      "id": 92,
+      "title": "Битцевский парк",
+      "line": 12,
+      "transferLines": []
+    },
+    {
+      "id": 93,
+      "title": "Сокол",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 94,
+      "title": "Ржевская",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 95,
+      "title": "Сокольники",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 96,
+      "title": "Смоленская",
+      "line": 4,
+      "transferLines": []
+    },
+    {
+      "id": 97,
+      "title": "Каховская",
+      "line": 17,
+      "transferLines": []
+    },
+    {
+      "id": 98,
+      "title": "Парк культуры",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 99,
+      "title": "Мичуринский проспект",
+      "line": 16,
+      "transferLines": []
+    },
+    {
+      "id": 100,
+      "title": "Котельники",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 101,
+      "title": "Библиотека имени Ленина",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 102,
+      "title": "Некрасовка",
+      "line": 15,
+      "transferLines": []
+    },
+    {
+      "id": 103,
+      "title": "Волгоградский проспект",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 104,
+      "title": "Трубная",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 105,
+      "title": "Динамо",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 106,
+      "title": "Алексеевская",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 107,
+      "title": "Улица академика Королёва",
+      "line": 13,
+      "transferLines": []
+    },
+    {
+      "id": 108,
+      "title": "Планерная",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 109,
+      "title": "Спортивная",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 110,
+      "title": "Аминьевское шоссе",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 111,
+      "title": "Суворовская",
+      "line": 5,
+      "transferLines": []
+    },
+    {
+      "id": 112,
+      "title": "Таганская",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 113,
+      "title": "Киевская",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 114,
+      "title": "Театральная",
+      "line": 2,
+      "transferLines": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Сокольники",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 116,
+      "title": "Деловой центр",
+      "line": 16,
+      "transferLines": []
+    },
+    {
+      "id": 117,
+      "title": "Бульвар Дмитрия Донского",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 118,
+      "title": "Шипиловская",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 119,
+      "title": "Белорусская",
+      "line": 5,
+      "transferLines": []
+    },
+    {
+      "id": 120,
+      "title": "Полянка",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 121,
+      "title": "Крылатское",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 122,
+      "title": "Сходненская",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 123,
+      "title": "Площадь Революции",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 124,
+      "title": "Юго-Западная",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 125,
+      "title": "Шоссе Энтузиастов",
+      "line": 8,
+      "transferLines": []
+    },
+    {
+      "id": 126,
+      "title": "Китай-город",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 127,
+      "title": "Щукинская",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 128,
+      "title": "Лесопарковая",
+      "line": 12,
+      "transferLines": []
+    },
+    {
+      "id": 129,
+      "title": "Новогиреево",
+      "line": 8,
+      "transferLines": []
+    },
+    {
+      "id": 130,
+      "title": "Курская",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 131,
+      "title": "Лефортово",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 132,
+      "title": "Авиамоторная",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 133,
+      "title": "Минская",
+      "line": 16,
+      "transferLines": []
+    },
+    {
+      "id": 134,
+      "title": "Студенческая",
+      "line": 4,
+      "transferLines": []
+    },
+    {
+      "id": 135,
+      "title": "Пражская",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 136,
+      "title": "Парк культуры",
+      "line": 5,
+      "transferLines": []
+    },
+    {
+      "id": 137,
+      "title": "Аэропорт",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 138,
+      "title": "Проспект Мира",
+      "line": 5,
+      "transferLines": []
+    },
+    {
+      "id": 139,
+      "title": "Третьяковская",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 140,
+      "title": "Марьина роща",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 141,
+      "title": "Китай-город",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 142,
+      "title": "Авиамоторная",
+      "line": 8,
+      "transferLines": []
+    },
+    {
+      "id": 143,
+      "title": "Нахимовский проспект",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 144,
+      "title": "Алма-Атинская",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 145,
+      "title": "Цветной бульвар",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 146,
+      "title": "Окружная",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 147,
+      "title": "Добрынинская",
+      "line": 5,
+      "transferLines": []
+    },
+    {
+      "id": 148,
+      "title": "Технопарк",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 149,
+      "title": "Серпуховская",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 150,
+      "title": "Каширская",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 151,
+      "title": "Жулебино",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 152,
+      "title": "Селигерская",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 153,
+      "title": "Юго-Восточная",
+      "line": 15,
+      "transferLines": []
+    },
+    {
+      "id": 154,
+      "title": "Солнцево",
+      "line": 16,
+      "transferLines": []
+    },
+    {
+      "id": 155,
+      "title": "Пятницкое шоссе",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 156,
+      "title": "Улица Скобелевская",
+      "line": 12,
+      "transferLines": []
+    },
+    {
+      "id": 157,
+      "title": "Воробьёвы горы",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 158,
+      "title": "Мичуринский проспект",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 159,
+      "title": "Верхние Лихоборы",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 160,
+      "title": "Строгино",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 161,
+      "title": "Отрадное",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 162,
+      "title": "Кузьминки",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 163,
+      "title": "Кунцевская",
+      "line": 4,
+      "transferLines": []
+    },
+    {
+      "id": 164,
+      "title": "Окская",
+      "line": 15,
+      "transferLines": []
+    },
+    {
+      "id": 165,
+      "title": "Митино",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 166,
+      "title": "Академическая",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 167,
+      "title": "Пролетарская",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 168,
+      "title": "Деловой центр",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 169,
+      "title": "Тургеневская",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 170,
+      "title": "Беляево",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 171,
+      "title": "Царицыно",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 172,
+      "title": "Волхонка",
+      "line": 16,
+      "transferLines": []
+    },
+    {
+      "id": 173,
+      "title": "Киевская",
+      "line": 4,
+      "transferLines": []
+    },
+    {
+      "id": 174,
+      "title": "Полежаевская",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 175,
+      "title": "Текстильщики",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 176,
+      "title": "Войковская",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 177,
+      "title": "Саларьево",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 178,
+      "title": "Братиславская",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 179,
+      "title": "Южная",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 180,
+      "title": "Киевская",
+      "line": 5,
+      "transferLines": []
+    },
+    {
+      "id": 181,
+      "title": "Славянский бульвар",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 182,
+      "title": "Свиблово",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 183,
+      "title": "Университет",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 184,
+      "title": "Улица Старокачаловская",
+      "line": 12,
+      "transferLines": []
+    },
+    {
+      "id": 185,
+      "title": "Электрозаводская",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 186,
+      "title": "Ясенево",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 187,
+      "title": "Румянцево",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 188,
+      "title": "Тропарёво",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 189,
+      "title": "Таганская",
+      "line": 5,
+      "transferLines": []
+    },
+    {
+      "id": 190,
+      "title": "Каширская",
+      "line": 17,
+      "transferLines": []
+    },
+    {
+      "id": 191,
+      "title": "Орехово",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 192,
+      "title": "Перово",
+      "line": 8,
+      "transferLines": []
+    },
+    {
+      "id": 193,
+      "title": "Телецентр",
+      "line": 13,
+      "transferLines": []
+    },
+    {
+      "id": 194,
+      "title": "Дубровка",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 195,
+      "title": "Каширская",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 196,
+      "title": "Семёновская",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 197,
+      "title": "Стахановская",
+      "line": 15,
+      "transferLines": []
+    },
+    {
+      "id": 198,
+      "title": "Кунцевская",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 199,
+      "title": "Петровско-Разумовская",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 200,
+      "title": "Тёплый стан",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 201,
+      "title": "Выхино",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 202,
+      "title": "Кантемировская",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 203,
+      "title": "Севастопольский проспект",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 204,
+      "title": "Молодёжная",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 205,
+      "title": "Владыкино",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 206,
+      "title": "Крестьянская застава",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 207,
+      "title": "Хорошёвская",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 208,
+      "title": "Зябликово",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 209,
+      "title": "Петровско-Разумовская",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 210,
+      "title": "Красносельская",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 211,
+      "title": "Улица Народного ополчения",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 212,
+      "title": "Чистые пруды",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 213,
+      "title": "Дмитровское шоссе",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 214,
+      "title": "Комсомольская",
+      "line": 5,
+      "transferLines": []
+    },
+    {
+      "id": 215,
+      "title": "Сретенский бульвар",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 216,
+      "title": "Проспект Вернадского",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 217,
+      "title": "Боровицкая",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 218,
+      "title": "Бибирево",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 219,
+      "title": "Речной вокзал",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 220,
+      "title": "Люблино",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 221,
+      "title": "Бутырская",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 222,
+      "title": "Октябрьское поле",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 223,
+      "title": "Новокузнецкая",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 224,
+      "title": "Кутузовская",
+      "line": 4,
+      "transferLines": []
+    },
+    {
+      "id": 225,
+      "title": "Тушинская",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 226,
+      "title": "Коломенская",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 227,
+      "title": "Октябрьская",
+      "line": 5,
+      "transferLines": []
+    },
+    {
+      "id": 228,
+      "title": "Проспект Вернадского",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 229,
+      "title": "Нагорная",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 230,
+      "title": "Выставочная",
+      "line": 4,
+      "transferLines": []
+    },
+    {
+      "id": 231,
+      "title": "Бунинская аллея",
+      "line": 12,
+      "transferLines": []
+    },
+    {
+      "id": 232,
+      "title": "Рижская",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 233,
+      "title": "Новоясеневская",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 234,
+      "title": "Бауманская",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 235,
+      "title": "Бульвар Рокоссовского",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 236,
+      "title": "Черкизовская",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 237,
+      "title": "Коньково",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 238,
+      "title": "Менделеевская",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 239,
+      "title": "улица Дмитриевского",
+      "line": 15,
+      "transferLines": []
+    },
+    {
+      "id": 240,
+      "title": "Электрозаводская",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 241,
+      "title": "Раменки",
+      "line": 16,
+      "transferLines": []
+    },
+    {
+      "id": 242,
+      "title": "Смоленская",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 243,
+      "title": "Баррикадная",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 244,
+      "title": "Багратионовская",
+      "line": 4,
+      "transferLines": []
+    },
+    {
+      "id": 245,
+      "title": "Бабушкинская",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 246,
+      "title": "Кропоткинская",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 247,
+      "title": "Проспект Мира",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 248,
+      "title": "Сухаревская",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 249,
+      "title": "Тимирязевская",
+      "line": 13,
+      "transferLines": []
+    },
+    {
+      "id": 250,
+      "title": "Красные ворота",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 251,
+      "title": "Печатники",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 252,
+      "title": "Шереметьевская",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 253,
+      "title": "Рязанский проспект",
+      "line": 7,
+      "transferLines": []
+    },
+    {
+      "id": 254,
+      "title": "Римская",
+      "line": 10,
+      "transferLines": []
+    },
+    {
+      "id": 255,
+      "title": "Александровский сад",
+      "line": 4,
+      "transferLines": []
+    },
+    {
+      "id": 256,
+      "title": "Ленинский проспект",
+      "line": 6,
+      "transferLines": []
+    },
+    {
+      "id": 257,
+      "title": "Чеховская",
+      "line": 9,
+      "transferLines": []
+    },
+    {
+      "id": 258,
+      "title": "Печатники",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 259,
+      "title": "Щёлковская",
+      "line": 3,
+      "transferLines": []
+    },
+    {
+      "id": 260,
+      "title": "Ховрино",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 261,
+      "title": "Шелепиха",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 262,
+      "title": "Площадь Гагарина",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 263,
+      "title": "Лихоборы",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 264,
+      "title": "Автозаводская",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 265,
+      "title": "Шоссе Энтузиастов",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 266,
+      "title": "Хорошёво",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 267,
+      "title": "Соколиная Гора",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 268,
+      "title": "Локомотив",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 269,
+      "title": "Кутузовская",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 270,
+      "title": "Балтийская",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 271,
+      "title": "Владыкино",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 272,
+      "title": "Угрешская",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 273,
+      "title": "Ботанический сад",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 274,
+      "title": "Андроновка",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 275,
+      "title": "Дубровка",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 276,
+      "title": "Измайлово",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 277,
+      "title": "Лужники",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 278,
+      "title": "Нижегородская",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 279,
+      "title": "Новохохловская",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 280,
+      "title": "ЗИЛ",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 281,
+      "title": "Верхние Котлы",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 282,
+      "title": "Белокаменная",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 283,
+      "title": "Ростокино",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 284,
+      "title": "Деловой центр",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 285,
+      "title": "Бульвар Рокоссовского",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 286,
+      "title": "Стрешнево",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 287,
+      "title": "Крымская",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 288,
+      "title": "Окружная",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 289,
+      "title": "Петровский парк",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 290,
+      "title": "ЦСКА",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 291,
+      "title": "Шелепиха",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 292,
+      "title": "Озерная",
+      "line": 16,
+      "transferLines": []
+    },
+    {
+      "id": 293,
+      "title": "Говорово",
+      "line": 16,
+      "transferLines": []
+    },
+    {
+      "id": 294,
+      "title": "Беломорская",
+      "line": 2,
+      "transferLines": []
+    },
+    {
+      "id": 295,
+      "title": "Зорге",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 296,
+      "title": "Панфиловская",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 297,
+      "title": "Коптево",
+      "line": 14,
+      "transferLines": []
+    },
+    {
+      "id": 298,
+      "title": "Савеловская",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 299,
+      "title": "Филатов луг",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 300,
+      "title": "Прокшино",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 301,
+      "title": "Ольховая",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 302,
+      "title": "Коммунарка",
+      "line": 1,
+      "transferLines": []
+    },
+    {
+      "id": 303,
+      "title": "Стромынка",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 304,
+      "title": "Лефортово",
+      "line": 15,
+      "transferLines": []
+    },
+    {
+      "id": 305,
+      "title": "Зюзино",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 306,
+      "title": "Народное Ополчение",
+      "line": 11,
+      "transferLines": []
+    },
+    {
+      "id": 307,
+      "title": "Мнёвники",
+      "line": 11,
+      "transferLines": []
+    }
+  ]
+}

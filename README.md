@@ -1,24 +1,25 @@
-# metroreg
+# mosmetroreg
 
-## Project setup
+## Установка проекта. Для эмуляции API требуется установить JSON Server.
 ```
 npm install
++
+npm install -g json-server
 ```
 
-### Compiles and hot-reloads for development
+### Сборка и запуск в режиме development
 ```
+npm run api
++
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Сборка и запуск в режиме production
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Проверка на ошибки
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
